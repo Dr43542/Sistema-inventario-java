@@ -1,2 +1,2 @@
 # Sistema-inventario-java
-Sistema de gestion de inventario simulando una tienda de barrio jeje, con opciones de agregar,editar y eliminar y conectada a SQL
+Sistema de gestion de inventario simulando una tienda de barrio jeje, con opciones de agregar,editar y eliminar y conectada a SQL, se uso el patron MVC tambien.
